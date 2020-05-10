@@ -1,9 +1,11 @@
+
 # Methods in Ruby
 
 ## Overview
 
 In this lesson, we'll introduce methods, distinguish them from data types, and
-cover how to create and execute them in your Ruby program.
+cover how to create a
+nd execute them in your Ruby program.
 
 You can follow along using IRB by typing `irb` in your terminal and copying the
 provided code examples. Alternatively, in the `lib` folder, there is also a
